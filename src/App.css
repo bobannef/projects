@@ -1,0 +1,53 @@
+
+
+.link {
+  color:black;
+  font-size: 18px;
+}
+.navbar-nav>li>a:hover {
+  background-color: transparent;
+  color: #f95e6d !important;
+  text-decoration: underline;
+  cursor: pointer;
+  
+}
+
+.bikeCont {
+  padding: 40px 0;
+
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  text-align: left;
+  border-radius: 5px;
+
+}
+
+.card img {
+  width: 350px;
+  height: 250px;
+  display: block;
+}
+.card-text {
+  margin-top: 15px;
+  background-color: gold;
+  padding: 15px;
+
+}
+ .card-text h2 {
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+}
+
+.card-text .price {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
+
+
