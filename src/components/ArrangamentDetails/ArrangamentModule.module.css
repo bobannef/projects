@@ -1,0 +1,65 @@
+
+.detailsContainer {
+    padding-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color:var(--purple-color)
+}
+
+
+.detailsInner {
+ padding-top: 2rem;
+}
+
+.navBar {
+    display: flex;
+    font-size: var(--heading-bold);
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.navItems {
+    display: flex;
+    justify-content: flex-start; 
+    gap: 1rem; 
+
+}
+
+
+.navLocation {
+    color: #7A6E82;
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center; 
+    margin-left: 28rem;
+}
+
+
+.location img {
+    width: 25px !important;
+}
+
+
+.content h3 {
+    font-size: var(--heading-bold);
+    padding-top:1.5rem;
+    padding-bottom:1.5rem;
+}
+
+.imageWrapper {
+    display: flex;
+    justify-content:space-between !important;
+  
+    padding-top: 1.5rem;
+}
+
+.carouselWrapper {
+    height: 250px;
+
+}
+.carouselWrapper > div {
+    height: 250px;
+}
+
+.carouselImage {
+    margin-right: 2.5rem;
+}

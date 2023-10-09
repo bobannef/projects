@@ -1,0 +1,20 @@
+
+.innerWrapper {
+    margin-bottom: 1.5rem;
+}
+.innerWrapper h3 {
+   font-family: var(--font-family-inter);
+   font-size: var(--heading-bold);
+   font-weight:700;
+   color:var(--purple-color);
+
+}
+
+.innerWrapper p {
+    font-size:var(--bodyText16-regular);
+    font-weight: 400;
+    color:#667080;
+    font-family: 'Poppins', sans-serif;
+ 
+ }
+

@@ -1,0 +1,61 @@
+
+.formContainer {
+    padding-top:1rem;
+   
+}
+
+.formWrapper {
+ background-color: var(--thertiary-color);
+ padding:1.5rem;
+ font-family: var(--font-family-inter);
+}
+
+.headingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headingTitle {
+    font-size: 22px;
+    color:#210D2F;
+}
+.mailbox {
+    display: block;
+    margin-right: 1rem;
+}
+
+.arrowDown {
+    margin-left: 1rem;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form input {
+    width: 320px;
+}
+.buttonContainer {
+ display: flex;
+ align-items: flex-end;
+ justify-content: center;
+      
+}
+.formButton {
+    padding: .2rem 3rem;
+    background-color: var(--primary-color);
+    font-weight:700;
+    font-size: var(--bodyText16-regular);
+    border-radius: 6px;
+    font-family: var(--font-family-inter);
+
+}
+
+.notification {
+    font-family: var(--font-family-inter);
+    font-size: var(--bodyText18-regular);
+    text-align: center;
+    margin-top: 1rem;
+}

@@ -1,0 +1,30 @@
+
+
+.headingContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0;
+}
+
+.heading {
+    font-size: var(--heading-regular);
+    text-align: center;
+    margin: 0;
+}
+.headingLine {
+    width: 500px;
+    padding:0 2rem;
+    color:#210D2F;
+}
+
+@media (max-width: 426px) {
+    .heading {
+      font-size: 16px;
+    
+    }
+    .headingLine {
+        width: 146px;
+        padding: 0 1rem;
+    }
+  }

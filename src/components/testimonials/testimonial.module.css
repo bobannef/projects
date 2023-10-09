@@ -1,0 +1,65 @@
+
+.testimonialContainer {
+    padding-top: 4rem;
+}
+
+.testimonialInner {
+  background-image: url('/images/testimonial-bg-img.png');  
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 590px;
+  padding:3rem;
+  margin-top: 3rem;
+}
+.testimonialCard {
+    padding-left:.5rem;
+    padding-right: .5rem;
+}
+
+.testimonialContent {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    font-family: var(--font-family-inter);
+    color:#000;
+}
+
+.testimonialImg {
+  width:100%;
+  height: 250px;
+}
+.yellowTrack {
+    position:absolute;
+    top:-1.7rem;
+    left:50%;
+    transform: translate(-50%, 0);
+}
+
+.testimonialTitle {
+    font-size: var(--heading24-semibold);
+    font-weight: 600;
+    margin: 0;
+}
+
+.testmonialText {
+    font-size: var(--bodyText18-regular);
+    margin-top: .8rem;
+    margin-bottom: 1.2rem;
+}
+
+.hotelText {
+    font-size: 20px;
+    font-weight:600;
+    margin: 0;
+    line-height: .3;
+}
+
+.testLine1 {
+    width: 136px;
+}
+.testLine2 {
+    width: 112px;
+}
+.testLine3 {
+    width: 70px;
+}

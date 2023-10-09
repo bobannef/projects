@@ -1,0 +1,38 @@
+.containerInner {
+    padding-top: 1.5rem;
+    font-family: var(--font-family-inter);
+}
+
+.title {
+    font-size:36px;
+    color:var(--purple-color);
+    letter-spacing: -2%;
+}
+
+.inputs input {
+    width: 20px;
+    height: 20px;
+    color:var(--purple-color) !important;
+}
+.inputs label {
+    font-size: 22px;
+    letter-spacing: -2%;
+    color:var(--purple-color);
+}
+
+.btn {
+    margin-top:2rem;
+  }
+  
+  .formButton {
+    width: 260px;
+    text-transform: uppercase;
+    letter-spacing: -2%;
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-size: 16px;
+    font-weight: 700;
+  
+  }

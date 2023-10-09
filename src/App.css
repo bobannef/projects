@@ -1,0 +1,27 @@
+:root {
+  
+  --font-family-open-sans:'Open Sans', sans-serif; 
+  --font-family-inter: 'Inter', sans-serif;
+  --primary-color:#FFCC16;
+  --secondary-color:#7A4094;
+  --thertiary-color:#21B0B7;
+  --purple-color: #210D2F;
+
+  --heading-regular:32px;
+  --heading-bold:26px;
+  --heading24-semibold:24px;
+  --heading20-semibold:20px;
+  --bodyText16-regular:16px;
+  --bodyText11-regular:11px;
+  --bodyText18-regular:18px;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+.footer-link {
+   font-size: var(--bodyText16-regular);
+   color: #210D2F;
+   text-decoration: none !important;
+}

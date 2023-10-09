@@ -1,0 +1,64 @@
+
+.footerContainer {
+    padding-top: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.footerWrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+   
+}
+
+.footerHeading {
+    font-size:var(--heading-bold);
+    margin: 0;
+    margin-bottom: .7rem;
+}
+
+.footerList {
+    list-style: none;
+    margin:0;
+    padding-left:0;
+}
+
+.socialIcons {
+  width: 35px;
+  height: 35px;
+  margin-right: 1rem;
+  margin-top: .7rem;
+}
+
+.footerTradeMark {
+    background-color: var(--secondary-color);
+    color:#fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: .7rem;
+    position: relative;
+}
+
+.footerParagraph {
+    margin-left: 187px;
+}
+
+.buttonChatContainer {
+    position:absolute;
+    right:20px;
+    bottom: 25px;
+
+}
+
+.chatButton {
+    padding:.5rem 1.5rem;
+    border-radius:15px;
+    background-color: var(--primary-color);
+}
+
+.chatSpan {
+  color:#210D2F;
+  margin-left:0.3rem;
+}

@@ -1,0 +1,177 @@
+.sliderContainer {
+    padding-top: 2rem;  
+  }
+  .carouselWrapper {
+      height: 500px;
+  
+  }
+  .carouselWrapper > div {
+      height: 500px;
+  }
+  .cardsContainer {
+      display: flex;
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+      gap:1rem;
+      padding-top: 5.5rem;
+      flex-wrap: wrap;
+  }
+  
+  .locationButtons {
+      display: flex;
+      justify-content:center;
+      align-items: center;
+      text-align: center;
+      padding-top: 3rem;
+      width: 100%;
+      font-family: var(--font-family-open-sans);
+     }
+  
+     .locationButtons button {
+       color:var(--purple-color);
+       font-size: var(--heading-bold);
+       border: 2px solid var(--thertiary-color);
+       background-color: transparent;
+       padding: 0 1.5em;
+       margin: 1rem;
+     }
+  
+     .locationButtons button.selected {
+      background-color: var(--thertiary-color);
+  }
+  
+  
+   .cardWrapper {
+      display: flex;
+      flex-direction:column;
+      font-family: var(--font-family-open-sans);
+      color:#210D2F;
+  }
+  
+  .cardContent {
+      display: flex;
+      flex-direction: column;
+      padding: 1.5rem;
+  }
+  
+  .cardHeader {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      font-size: var(--bodyText16-regular);
+      color:#210D2F;
+  }
+  
+  .cardBody {
+      display: flex;
+      justify-content: space-between;
+      padding-top: .7rem;  
+      line-height: 0.5;
+     
+   }
+  
+   .left {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      color: rgba(33, 13, 47, 0.6);
+      font-size: 11px;
+      font-family: var(--font-family-open-sans);
+  }
+  
+  .right {
+      font-size: 14px;
+      font-weight: 500;
+      font-family: 'Poppins', sans-serif;
+  }
+  
+  .right span {
+      padding-left: 15px;
+  }
+  
+  
+  .location {
+      display: flex;
+      justify-content: flex-start;
+      color: rgba(33, 13, 47, 0.6);
+      font-family: var(--font-family-open-sans);
+  }
+  .location img {
+      width: 20px !important;
+  }
+  
+  .stars {
+    color: var(--primary-color);
+  }
+  
+  
+  .cardButton {
+      width: 100%;
+      padding: .5rem;
+      border-radius: 5px;
+      border: 3px solid var(--primary-color);
+      text-transform: uppercase;
+      font-family: var(--font-family-inter);
+      font-weight: 600;
+      color:#210D2F;
+      background-color: transparent;
+     
+  }
+  .cardFooter {
+      display: flex;
+      justify-content: center;
+  }
+
+  .carouselButtonWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5rem;
+    margin-bottom: 3.2rem;
+}
+
+.carouselButton {
+    color:#7A6E82;
+    font-family: var(--font-family-open-sans);
+    font-size: var(--heading-regular);
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    position: absolute;
+    z-index: 10;
+}
+    
+ @media (max-width: 426px) {
+    .locationButtons {
+        display: flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items: center;
+        text-align: center;
+        padding-top: .1rem;
+ 
+       }
+
+       .locationButtons button {
+        font-size: var(--bodyText11-regular);
+    
+      }
+
+      .cardsContainer {
+        padding-top: 1rem;
+   
+    }
+
+    .carouselButtonWrapper {
+        margin-top: .5rem;
+        margin-bottom: 2.2rem;
+    }
+
+    .carouselButton {
+        font-size: var(--bodyText16-regular);
+ 
+     
+    }
+    
+  } 

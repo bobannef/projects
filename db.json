@@ -1,0 +1,3928 @@
+{
+  "arrangements": [
+    {
+      "id": "1",
+      "Name": "Makedonija 1",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Охрид",
+            "Region": "Охрид"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Охрид",
+                "Region": "Охрид"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 1,
+          "Prices": 360,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+    {
+      "id": "2",
+      "Name": "Makedonija 2",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Охрид",
+            "Region": "Охрид"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Охрид",
+                "Region": "Охрид"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 2,
+          "Prices": 320,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "3",
+      "Name": "Makedonija 3",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Охрид",
+            "Region": "Охрид"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Охрид",
+                "Region": "Охрид"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 3,
+          "Prices": 250,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "4",
+      "Name": "Makedonija 4",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Охрид",
+            "Region": "Охрид"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Охрид",
+                "Region": "Охрид"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 4,
+          "Prices": 400,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "5",
+      "Name": "Makedonija 5",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Крушево",
+            "Region": "Крушево"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Крушево",
+                "Region": "Крушево"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 5,
+          "Prices": 500,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "6",
+      "Name": "Makedonija 6",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Крушево",
+            "Region": "Крушево"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "url": "images/carousel-img2.png",
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Крушево",
+                "Region": "Крушево"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 6,
+          "Prices": 670,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "7",
+      "Name": "Makedonija 7",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Крушево",
+            "Region": "Крушево"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Крушево",
+                "Region": "Крушево"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 7,
+          "Prices": 720,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "8",
+      "Name": "Makedonija 8",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Крушево",
+            "Region": "Крушево"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Крушево",
+                "Region": "Крушево"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 8,
+          "Prices": 850,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "9",
+      "Name": "Makedonija 9",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Берово",
+            "Region": "Берово"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Берово",
+                "Region": "Берово"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 9,
+          "Prices": 340,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "10",
+      "Name": "Makedonija 10",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Берово",
+            "Region": "Берово"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Берово",
+                "Region": "Берово"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 10,
+          "Prices": 340,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "11",
+      "Name": "Makedonija 11",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Берово",
+            "Region": "Берово"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Берово",
+                "Region": "Берово"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 11,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "12",
+      "Name": "Makedonija 12",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Берово",
+            "Region": "Берово"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Берово",
+                "Region": "Берово"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 12,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "13",
+      "Name": "Makedonija 13",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Маврово",
+            "Region": "Маврово"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Маврово",
+                "Region": "Маврово"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 13,
+          "Prices": 520,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "14",
+      "Name": "Makedonija 14",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Маврово",
+            "Region": "Маврово"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Mavrovo",
+                "Region": "Mavrovo"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 14,
+          "Prices": 520,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "15",
+      "Name": "Makedonija 15",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Маврово",
+            "Region": "Маврово"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Маврово",
+                "Region": "Маврово"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 15,
+          "Prices": 340,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "16",
+      "Name": "Makedonija 16",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Маврово",
+            "Region": "Маврово"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Маврово",
+                "Region": "Маврово"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 16,
+          "Prices": 340,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "17",
+      "Name": "Makedonija 17",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Струга",
+            "Region": "Струга"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Струга",
+                "Region": "Струга"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 17,
+          "Prices": 340,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "18",
+      "Name": "Makedonija 18",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Струга",
+            "Region": "Струга"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Струга",
+                "Region": "Струга"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 18,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "19",
+      "Name": "Maledonija 19",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Струга",
+            "Region": "Струга"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Струга",
+                "Region": "Струга"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 19,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "20",
+      "Name": "Makedonija 20",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Macedonia": {
+            "City": "Струга",
+            "Region": "Струга"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Macedonia": {
+                "City": "Струга",
+                "Region": "Струга"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 20,
+          "Prices": 550,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "21",
+      "Name": "Grcija 1",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Касандра",
+            "Region": "Касандра"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Касандра",
+                "Region": "Касандра"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 21,
+          "Prices": 550,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "22",
+      "Name": "Grcija 2",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Касандра",
+            "Region": "Касандра"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Касандра",
+                "Region": "Касандра"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 22,
+          "Prices": 360,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "23",
+      "Name": "Grcija 3",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Касандра",
+            "Region": "Касандра"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Касандра",
+                "Region": "Касандра"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 23,
+          "Prices": 360,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+     {
+      "id": "24",
+      "Name": "Grcija 4",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Касандра",
+            "Region": "Касандра"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Касандра",
+                "Region": "Касандра"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 24,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "25",
+      "Name": "Grcija 5",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Ситонија",
+            "Region": "Ситонија"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Ситонија",
+                "Region": "Ситонија"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 25,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "26",
+      "Name": "Grcija 6",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Ситонија",
+            "Region": "Ситонија"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Ситонија",
+                "Region": "Ситонија"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 26,
+          "Prices": 1100,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+    {
+      "id": "27",
+      "Name": "Grcija 7",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Ситонија",
+            "Region": "Ситонија"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Ситонија",
+                "Region": "Ситонија"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 27,
+          "Prices": 1100,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "28",
+      "Name": "Grcija 8",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Ситонија",
+            "Region": "Ситонија"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Ситонија",
+                "Region": "Ситонија"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 28,
+          "Prices": 1100,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "29",
+      "Name": "Grcija 9",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Лефкада",
+            "Region": "Лефкада"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Лефкада",
+                "Region": "Лефкада"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 29,
+          "Prices": 900,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+   {
+      "id": "30",
+      "Name": "Grcija 10",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Лефкада",
+            "Region": "Лефкада"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Лефкада",
+                "Region": "Лефкада"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 30,
+          "Prices": 900,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "31",
+      "Name": "Grcija 11",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Лефкада",
+            "Region": "Лефкада"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Лефкада",
+                "Region": "Лефкада"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 31,
+          "Prices": 800,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "32",
+      "Name": "Grcija 12",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Лефкада",
+            "Region": "Лефкада"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Лефкада",
+                "Region": "Лефкада"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 32,
+          "Prices": 800,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "33",
+      "Name": "Grcija 13",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Тасос",
+            "Region": "Тасос"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Тасос",
+                "Region": "Тасос"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 33,
+          "Prices": 650,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "34",
+      "Name": "Grcija 14",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Тасос",
+            "Region": "Тасос"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Тасос",
+                "Region": "Тасос"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 34,
+          "Prices": 540,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "35",
+      "Name": "Grcija 15",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Тасос",
+            "Region": "Тасос"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Тасос",
+                "Region": "Тасос"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 35,
+          "Prices": 540,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "36",
+      "Name": "Grcija 16",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Last Minute",
+            "Region": "Last Minute"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Last Minute",
+                "Region": "Last Minute"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 36,
+          "Prices": 540,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "37",
+      "Name": "Grcija 17",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Last Minute",
+            "Region": "Last Minute"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Last Minute",
+                "Region": "Last Minute"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 37,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "38",
+      "Name": "Grcija 18",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Last Minute",
+            "Region": "Last Minute"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Last Minute",
+                "Region": "Last Minute"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 38,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "39",
+      "Name": "Grcija 19",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Last Minute",
+            "Region": "Last Minute"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Last Minute",
+                "Region": "Last Minute"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 39,
+          "Prices": 360,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+    {
+      "id": "40",
+      "Name": "Grcija 20",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Greece": {
+            "City": "Last Minute",
+            "Region": "Last Minute"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Greece": {
+                "City": "Last Minute",
+                "Region": "Last Minute"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 40,
+          "Prices": 150,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "41",
+      "Name": "Egzoticni 1",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Малдиви",
+            "Region": "Малдиви"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Малдиви",
+                "Region": "Малдиви"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 41,
+          "Prices": 150,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+    {
+      "id": "42",
+      "Name": "Egzoticni 2",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Малдиви",
+            "Region": "Малдиви"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Малдиви",
+                "Region": "Малдиви"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 42,
+          "Prices": 150,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "43",
+      "Name": "Egzoticni 3",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Малдиви",
+            "Region": "Малдиви"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Малдиви",
+                "Region": "Малдиви"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 43,
+          "Prices": 220,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+    {
+      "id": "44",
+      "Name": "Egzoticni 4",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Малдиви",
+            "Region": "Малдиви"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Малдиви",
+                "Region": "Малдиви"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 44,
+          "Prices": 220,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "45",
+      "Name": "Egzoticni 5",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Доминикана",
+            "Region": "Доминикана"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Доминикана",
+                "Region": "Доминикана"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 45,
+          "Prices": 350,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+     {
+      "id": "46",
+      "Name": "Egzoticni 6",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Доминикана",
+            "Region": "Доминикана"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Доминикана",
+                "Region": "Доминикана"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 46,
+          "Prices": 350,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "47",
+      "Name": "Egzoticni 7",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Доминикана",
+            "Region": "Доминикана"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Доминикана",
+                "Region": "Доминикана"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 47,
+          "Prices": 540,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+    {
+      "id": "48",
+      "Name": "Egzoticni 8",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Доминикана",
+            "Region": "Доминикана"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img2.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Доминикана",
+                "Region": "Доминикана"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 48,
+          "Prices": 540,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+
+    {
+      "id": "49",
+      "Name": "Egzoticni 9",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Куба",
+            "Region": "Куба"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Куба",
+                "Region": "Куба"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 49,
+          "Prices": 420,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+    {
+      "id": "50",
+      "Name": "Egzoticni 10",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Куба",
+            "Region": "Куба"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Куба",
+                "Region": "Куба"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 50,
+          "Prices": 620,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "51",
+      "Name": "Egzoticni 11",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Куба",
+            "Region": "Куба"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Куба",
+                "Region": "Куба"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 51,
+          "Prices": 620,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+   {
+      "id": "52",
+      "Name": "Egzoticni 12",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Куба",
+            "Region": "Куба"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img3.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Куба",
+                "Region": "Куба"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 52,
+          "Prices": 650,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+
+    {
+      "id": "53",
+      "Name": "Egzoticni 13",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Дубаи",
+            "Region": "Дубаи"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Дубаи",
+                "Region": "Дубаи"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 53,
+          "Prices": 650,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+
+    {
+      "id": "54",
+      "Name": "Egzoticni 14",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Дубаи",
+            "Region": "Дубаи"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Дубаи",
+                "Region": "Дубаи"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 54,
+          "Prices": 650,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+   {
+      "id": "55",
+      "Name": "Egzoticni 15",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Дубаи",
+            "Region": "Дубаи"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Дубаи",
+                "Region": "Дубаи"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 55,
+          "Prices": 830,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+    {
+      "id": "56",
+      "Name": "Egzoticni 16",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Дубаи",
+            "Region": "Дубаи"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img4.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Дубаи",
+                "Region": "Дубаи"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 56,
+          "Prices": 830,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "57",
+      "Name": "Egzoticni 17",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Сејшели",
+            "Region": "Сејшели"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Сејшели",
+                "Region": "Сејшели"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 57,
+          "Prices": 830,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+    {
+      "id": "58",
+      "Name": "Egzoticni 18",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Сејшели",
+            "Region": "Сејшели"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Сејшели",
+                "Region": "Сејшели"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 58,
+          "Prices": 900,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    },
+
+    {
+      "id": "59",
+      "Name": "Egzoticni 19",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Сејшели",
+            "Region": "Сејшели"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Сејшели",
+                "Region": "Сејшели"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "id": 59,
+          "Prices": 900,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Apartment"
+    },
+
+     {
+      "id": "60",
+      "Name": "Egzoticni 20",
+      "Description": "10 ноќевања/наем соба",
+      "ApartmentDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error veniam iste quaerat, qui beatae nulla laborum? Reiciendis quae molestiae doloremque, nisi at dolorem voluptatum rerum tempore possimus pariatur eius nam laudantium quidem deserunt voluptatem. Consequatur, at quam repellendus saepe aliquam officiis odit nam unde inventore, maiores dolorem! Iusto ut, rem sit alias illo laudantium sequi numquam pariatur aut fuga velit nemo natus eius harum commodi maiores dignissimos autem provident corrupti ad culpa libero nostrum. Eligendi incidunt quaerat magni? Illum, deserunt?",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Distance": "50м од плажа",
+      "Rating": 3,
+      "Location": {
+        "Country": {
+          "Egzotic": {
+            "City": "Сејшели",
+            "Region": "Сејшели"
+          }
+        }
+      },
+      "Gallery": [
+        {
+          "Description": "Mollit amet aliquip esse irure.",
+          "url": "images/carousel-img1.png",
+          "Thumbnail": {
+            "image1": {
+              "url": "images/arrangement-img1.png"
+            },
+            "image2": {
+              "url": "images/arrangement-img2.png"
+            },
+            "image3": {
+              "url": "images/arrangement-img3.png"
+            },
+            "image4": {
+              "url": "images/arrangement-img4.png"
+            }
+          },
+          "Location": {
+            "Country": {
+              "Egzotic": {
+                "City": "Сејшели",
+                "Region": "Сејшели"
+              }
+            }
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+
+      "Prices": [
+        {
+          "id": 60,
+          "Prices": 150,
+          "LastMinutePrices": 200
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Hotel"
+    }
+
+  ],
+
+
+
+  "prices": [
+    {
+      "id": "price1",
+      "date": "01.06.2023-10.06.2023",
+      "nights": "10",
+      "singleRoom": "40",
+      "doubleRoom": "45",
+      "standardApartment": "60",
+      "luxuryApartment": "80"
+    },
+    {
+      "id": "price2",
+      "date": "10.06.2023-20.06.2023",
+      "nights": "10",
+      "singleRoom": "40",
+      "doubleRoom": "55",
+      "standardApartment": "60",
+      "luxuryApartment": "80"
+    },
+    {
+      "id": "price3",
+      "date": "20.06.2023-30.06.2023",
+      "nights": "10",
+      "singleRoom": "50",
+      "doubleRoom": "65",
+      "standardApartment": "70",
+      "luxuryApartment": "90"
+    },
+    {
+      "id": "price4",
+      "date": "01.07.2023-10.07.2023",
+      "nights": "10",
+      "singleRoom": "70",
+      "doubleRoom": "80",
+      "standardApartment": "90",
+      "luxuryApartment": "100"
+    },
+    {
+      "id": "price5",
+      "date": "10.07.2023-20.07.2023",
+      "nights": "10",
+      "singleRoom": "90",
+      "doubleRoom": "100",
+      "standardApartment": "110",
+      "luxuryApartment": "120"
+    },
+    {
+      "id": "price6",
+      "date": "20.07.2023-30.07.2023",
+      "nights": "10",
+      "singleRoom": "90",
+      "doubleRoom": "100",
+      "standardApartment": "110",
+      "luxuryApartment": "120"
+    },
+    {
+      "id": "price7",
+      "date": "01.08.2023-10.08.2023",
+      "nights": "10",
+      "singleRoom": "90",
+      "doubleRoom": "100",
+      "standardApartment": "110",
+      "luxuryApartment": "120"
+    },
+    {
+      "id": "price8",
+      "date": "10.08.2023-20.08.2023",
+      "nights": "10",
+      "singleRoom": "80",
+      "doubleRoom": "90",
+      "standardApartment": "100",
+      "luxuryApartment": "110"
+    },
+    {
+      "id": "price9",
+      "date": "20.08.2023-30.08.2023",
+      "nights": "10",
+      "singleRoom": "60",
+      "doubleRoom": "70",
+      "standardApartment": "90",
+      "luxuryApartment": "100"
+    }
+  ],
+
+
+  "avio-cards": [
+    {
+      "departureDate": "2023-09-07",
+      "arrivalDate": "2023-09-13",
+      "departureInput": "2023-09-20",
+      "arrivalInput": "",
+      "adults": "",
+      "kids": "1",
+      "infants": "1",
+      "classType": "",
+      "id": 1
+    },
+    {
+      "departureDate": "2023-09-21",
+      "arrivalDate": "2023-09-22",
+      "departureInput": "2023-09-22",
+      "arrivalInput": "2023-09-24",
+      "adults": "2",
+      "kids": "3",
+      "infants": "3",
+      "classType": "2",
+      "id": 2
+    },
+    {
+      "departureDate": "2023-09-14",
+      "arrivalDate": "2023-09-27",
+      "departureInput": "2023-09-27",
+      "arrivalInput": "2023-09-29",
+      "adults": "2",
+      "kids": "1",
+      "infants": "3",
+      "classType": "3",
+      "id": 3
+    },
+    {
+      "departureDate": "2023-09-13",
+      "arrivalDate": "2023-09-14",
+      "departureInput": "2023-09-21",
+      "arrivalInput": "2023-09-24",
+      "adults": "1",
+      "kids": "2",
+      "infants": "2",
+      "classType": "",
+      "id": 4
+    },
+    {
+      "departureDate": "",
+      "arrivalDate": "",
+      "departureInput": "",
+      "arrivalInput": "",
+      "adults": "",
+      "kids": "",
+      "infants": "",
+      "classType": "",
+      "id": 5
+    }
+  ],
+  "testimonials": [
+    {
+      "Title": "Some Title",
+      "Rating": 3,
+      "url": "image url",
+      "Description": "Mollit amet aliquip esse irure.",
+      "Arrangement": "Arrangement Name"
+    },
+    {
+      "Title": "Some Title",
+      "Rating": 3,
+      "url": "image url",
+      "Description": "Mollit amet aliquip esse irure.",
+      "Arrangement": "Arrangement Name"
+    },
+    {
+      "Title": "Some Title",
+      "Rating": 3,
+      "url": "image url",
+      "Description": "Mollit amet aliquip esse irure.",
+      "Arrangement": "Arrangement Name"
+    }
+  ]
+}
