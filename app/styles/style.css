@@ -1,0 +1,1116 @@
+@import url("https://clicktime.symantec.com/15t5jYHxodP8No5NVLGqa?h=IIbMdVytSnMbVYVncKjLAfympwSAOunFJqM_bMbuFag=&u=https://fonts.googleapis.com/css2?family%3DReenie%2BBeanie%26family%3DRoboto:wght%40100%3B300%3B400%3B700%26display%3Dswap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+
+}
+body {
+  box-sizing: border-box;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+
+  }
+
+  :root {
+
+    --background-normal: #edd5bb;
+    --background-light: #fcebd5;
+    --background-dark: #e09686;
+    --background-default: #a26a5e;
+  }
+
+  img {
+
+    max-width: 100%;
+
+  }
+
+
+  body {
+
+    padding: 0;
+    margin: 0;
+    background-color: var(--background-light);
+
+  }
+  h1 {
+    align-self: center;
+    margin-bottom: 0;
+  }
+
+ 
+
+  header {
+    position: relative;
+    display: block;
+    z-index: 100;
+    padding: 5px 15px;
+    box-shadow: -1px -1px 6px 2px rgba(0, 0, 0, 0.28);
+    -webkit-box-shadow: -1px -1px 6px 2px rgba(0, 0, 0, 0.28);
+    -moz-box-shadow: -1px -1px 6px 2px rgba(0, 0, 0, 0.28);
+
+  }
+
+ 
+  header .nav-icon-container {
+    color: var(--background-default); 
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+  }
+
+
+  header .nav-icon-container .menu-btn {
+    cursor: pointer;
+
+  }
+
+  #collapseNav {
+    background-color: var(--background-default);
+  }
+  .navigation li  {
+    color: var(--background-light);
+    list-style: none;
+    text-align: center;
+    transition: all 0.3s ease;
+  }
+
+  .navigation li:hover {
+    background-color: #8a5a4f;
+
+  }
+
+  .navigation li a {
+    padding: 10px;
+    display: block;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    color: var(--background-light);
+    font-size: 25px;
+
+  }
+ 
+  .logo {
+
+    font-family: "Reenie Beanie", cursive;
+    color: var(--background-default);
+    text-align: center;
+    font-size: 32px;
+
+  }
+
+  .logo .logo-img {
+
+    width: 80px;
+    text-align: center;
+  }
+
+ 
+  .logo-wrapper {
+
+    padding: 30px 0;
+    text-align: center;
+
+  }
+
+  .select-container {
+
+    width: 250px;
+    height: 400px;
+    margin: 0 auto;
+    position:relative;
+
+  }
+
+ 
+
+  /********************************************/
+
+#landingPage .select-container .join-artist {
+
+     position: relative;
+     z-index: 10;
+
+  }
+
+
+  #landingPage .select-container .join-artist:hover {
+
+    -webkit-filter: drop-shadow(-1px 6px 2px rgba (0,0,0,0.3));
+        filter: drop-shadow(-1px 6px 2px rgba (0,0,0,0.3));
+
+
+  }
+
+
+  #landingPage .select-container .join-visitor {
+  position: absolute;
+  top:100px;
+  width: 100%;
+
+}
+
+ 
+#landingPage .select-container .join-visitor:hover {
+  -webkit-filter: drop-shadow(-1px 6px 2px rgba (0,0,0,0.3));
+      filter: drop-shadow(-1px 6px 2px rgba (0,0,0,0.3));
+
+
+}
+ 
+
+#landingPage .select-container .wrap-up {
+  position: absolute;
+  top:0px;
+  padding: 20px;
+  width: 100%;
+  background-color: var(--background-normal);
+  max-height: 276px;
+  height: 290px;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 40%);
+          clip-path: polygon(0 0, 100% 0, 100% 100%, 0 40%);
+
+   -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+   -webkit-box-shadow: 15px 19px 27px -5px rgba (0,0,0,0.75);
+    box-shadow: 15px 19px 27px -5px rgba (0,0,0,0.75);
+    z-index: 100;
+    cursor: pointer;
+
+}
+
+#landingPage .select-container .wrap-up:hover {
+
+-webkit-transform: scale(1.02);
+        transform: scale(1.02);
+-webkit-box-shadow: 15px 19px 27px -5px rgba (0,0,0,0.75);
+        box-shadow: 15px 19px 27px -5px rgba (0,0,0,0.75);
+
+}
+
+ 
+.select-container .wrap-up p {
+
+  text-align: center;
+  font-family: "Reenie Beanie", cursive;
+  font-size: 40px;
+  color: var(--background-default);
+  margin-bottom: 0;
+
+}
+
+
+.select-container .wrap-up .artist-list {
+
+  text-align: right;
+
+}
+
+ 
+
+.select-container .wrap-up .artist-list select {
+
+   background-color: transparent;
+   color:var(--background-default);
+   padding: 5px 15px;
+   border-color: var(--background-default);
+   border-radius: 3px;
+
+}
+
+ 
+
+#landingPage .select-container .wrap-down {
+
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-align: end;
+  -ms-flex-align: end;
+     align-items: flex-end;
+
+position: absolute;
+padding: 30px;
+width: 100%;
+background-color: var(--background-default);
+height: 300px;
+-webkit-clip-path: polygon(0 0, 100% 60%, 100% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 60%, 100% 100%, 0 100%);
+  
+-webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+-webkit-box-shadow: 15px 19px 27px -5px rgba (0,0,0,0.75);
+  box-shadow: 15px 19px 27px -5px rgba (0,0,0,0.75);
+  cursor: pointer;
+
+}
+
+ 
+
+#landingPage .select-container .wrap-down:hover {
+
+-webkit-transform: scale(1.03);
+        transform: scale(1.03);
+
+}
+
+ 
+
+#landingPage .select-container .wrap-down p {
+
+  text-align: center;
+  font-family: "Reenie Beanie", cursive;
+  font-size: 40px;
+  color: var(--background-light);
+  margin-bottom: 0;
+
+}
+
+ 
+
+/*******************************************************/
+
+#visitorHomePage {
+
+
+  font-family: 'Roboto', sans-serif;
+  color:var(--background-default);
+  font-weight: 300;
+
+  }
+
+  .banner {
+
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url("../project images/bricks-img.jpg");
+    background-repeat:repeat-x;
+    background-size: cover;
+    height: 50vh;
+
+  }
+
+
+  .sliders-animation .img-slider {
+    min-width: 400px;
+    height: 200px;
+
+  }
+
+  .banner h1 {
+    width: 65%;
+    font-weight:800;
+    line-height: 50px;
+    font-size: 50px;
+
+  }
+
+ 
+  .findOneBtn {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--background-light);
+    background-color: var(--background-default);
+    padding: 5px 30px;
+    border-radius: 5px;
+    line-height: 25px;
+
+  }
+
+  .sliders-animation  {
+    padding: 20px;
+    overflow: hidden;
+    background-color: var(--background-normal);
+
+  }
+
+
+  @keyframes slide-left {
+
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+
+      transform: translateX(0);
+
+    }
+
+  }
+
+ 
+  @keyframes slide-right {
+
+    0% {
+      transform: translateX(100%);
+
+    }
+
+    100% {
+      transform: translateX(0);
+
+    }
+
+  }
+
+  .sliders-animation .top {
+      position: relative;
+      transform: translateX(-100%);
+      display: flex;
+      animation: slide-left 30s linear infinite;
+
+  }
+
+  .sliders-animation .top > * {
+    margin-right: 20px;
+
+  }
+
+ 
+
+  .sliders-animation .bottom {
+      position: relative;
+      display: flex;
+      animation: slide-right 30s linear infinite;
+
+  }
+
+ 
+
+  .sliders-animation .bottom > * {
+    margin-top: 20px;
+    margin-left: 20px;
+
+  }
+
+  
+
+   .Lcara {
+    width: 85%;
+    margin: 0 auto;
+    background-color: var(--background-default);
+    position: relative;
+    color:white;
+  }
+  
+  .Lcara img {
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translate(-50%);
+  }
+  
+  .caraBorder {
+    border-right: 1px solid var(--background-default);
+  }
+
+ 
+
+   /*************************************************/
+
+     #visitorListingPage {
+      background-color: var(--background-normal);
+      position: relative;
+      font-family: "Roboto", sans-serif;
+
+    }
+  
+     .card-container {
+      padding: 40px 0;
+     }
+    
+  
+      
+     .card-container .card {
+      box-shadow: 4px 4px 4px -5px rgba(0, 0, 0, 0.75);
+      border-radius: 5px;
+      margin-bottom: 70px;
+      background-color: var(--background-light);
+      color:var(--background-default);
+    
+     }
+    
+     .card span {
+      background-color: var(--background-default);
+      color:var(--background-light);
+      padding: 5px 12px;
+      border-radius: 5px;
+     }
+     
+
+     .card-container .card:nth-child(even) .card-header {
+
+      background-color: var(--background-default);
+      color:var(--background-light)
+      
+     }
+     
+     .card-container .card:nth-child(even) .card-body {
+
+      background-color: var(--background-default);
+      color:var(--background-light)
+      
+     }
+
+     .card-header h3 {
+      font-family: "Reenie Beanie", cursive;
+     }
+     
+     .card:nth-child(even) span {
+      background-color: var(--background-light);
+      color:var(--background-default)
+     }
+
+     .card-container .card:nth-child(even) .card-text {
+      color:var(--background-light)
+     }
+    
+    
+  .filterBtn {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;  
+
+  }
+  .closeBtn {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    right:10px;
+    background-color: transparent;
+    border: none;
+  
+  }
+  .applyBtn { 
+    background-color: #d44c2e;
+    padding: 8px;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.25);
+    border-radius: 2px;
+    position: relative;
+    bottom: 20px;
+    right: 10px;
+    border: none;
+  
+  }
+  .buttonContainer {
+    margin-top: 80px;
+    text-align: right;
+ 
+  }
+
+
+  .filterPage {
+    color: var(--background-light);
+    background-color: var(--background-default);
+    padding: 20px 10px;
+  
+  }
+
+
+.filterPage .filter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filter-header h2 {
+
+  font-size: 40px;
+  font-weight: 500;
+  padding-left: 20px;
+}
+.filterPage hr {
+  background-color: var(--background-light);
+  border-width: 3px;
+}
+
+.filterPage .filters {
+  padding: 50px 0;
+  margin: 30px;
+  background-color: var(--background-default);
+  color: var(--background-normal);
+  font-weight: 100;
+}
+
+.filters label {
+   display: block;
+   margin-bottom: 10px;
+   font-size: 20px;
+}
+
+
+.filters input, 
+.filters select {
+  background-color: transparent;
+  border: 1px solid var(--background-light);
+  padding: 6px;
+  color: var(--background-light);
+  font-weight: 100;
+  border-radius: 3px;
+  width: 10%;
+}
+
+.filters p {
+  font-size: 20px;
+}
+.price-filter {
+  display: flex;
+
+}
+
+.price-filter .min-price, 
+.price-filter .min-price {
+  margin-right: 120px;
+}
+.price-filter input {
+  width: 60%;
+}
+.price-filter label {
+  display: inline;
+}
+
+
+/***************************************************************/
+
+  .artist-home-page {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+  }
+  
+ .sales-info-container {
+
+  background-color: var(--background-normal);
+  padding: 20px;
+
+ }
+
+ .sales-info-container .totals {
+   display: flex;
+ 
+ } 
+.sales-info-container .col {
+  color: var(--background-light);
+  padding: 10px;
+  width: 50%;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: var(--background-default);
+
+}
+ .total-sold {
+  margin-right: 20px;
+}
+.total-sold h3,
+.total-income h3 {
+font-size: 18px;
+
+}
+.items-sold,
+.income-amount {
+  font-size: 30px;
+  margin-bottom: 0;
+  font-weight: 500;
+
+}
+
+.live-auction-container {
+  background: url("../project images/Rectangle 21.png");
+  padding: 20px;
+  display:block;
+  position: relative;
+  /*display: none;*/
+  text-decoration: none;
+  text-align: center;
+
+}
+
+.live-auction-container:hover {
+  text-decoration: none;
+}
+.live-auction-container .auction-amount {
+  font-size: 60px;
+  margin-bottom: 0;
+  font-weight: 500;
+
+}
+.live-auction-container .bid {
+  font-size: 20px;
+  margin-bottom: 0;
+  font-weight: 300;
+
+}
+ 
+.chart-container  {
+  background-color: var(--background-light);
+  padding: 20px;
+
+}
+ .chart-container #myChart {
+  margin-top: 35px;
+}
+ .chart-container h2 {
+  color:var(--background-default);
+  font-weight: 300;
+  margin-bottom: 25px;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button-container button {
+  border: none;
+  padding: 7px 25px;
+  background-color: var(--background-default);
+  color: var(--background-light);
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2);
+  font-weight: 700;
+  text-align: center;
+  margin:6px;
+
+}
+.button-container #last14 {
+background-color: #d44c2e;
+text-align: center;
+}
+
+/***************************************************************/
+
+#artists-items {
+   
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  position: relative;
+  background-color: var(--background-normal);
+}
+
+
+
+ .cards-container-items {
+  padding: 80px 0;
+
+}
+
+ .cards-container-items .card {
+  border-radius: 5px;
+  background-color: var(--background-light);
+  box-shadow: 4px 4px 4px -5px rgba(0, 0, 0, 0.75);
+  margin-bottom: 50px;
+
+ }
+
+.card-img {
+  height: 350px;
+  position: relative;
+
+}
+.card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  
+}
+
+.card .card-header {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 0;
+  background-color: var(--background-light);
+}
+
+
+.card-header .title {
+  color: var(--background-default);
+  font-weight: 400;
+  margin-bottom: 0;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.date {
+ font-size: 14px;
+ color:var(--background-dark);
+ font-weight: 400;
+ padding-left: 10px;
+}
+
+.card-header .price {
+  font-size: 18px;
+  background-color: var(--background-default) !important;
+  padding: 5px 12px;
+  color: var(--background-light) !important;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+
+}
+
+.add-item {
+
+  box-shadow: 4px 4px 4px -5px rgba(0, 0, 0, 0.75);
+  background-color: var(--background-light);
+  padding: 20px;
+
+
+}
+.add-item .add-item-btn {
+
+ color:var(--background-default);
+ font-weight: 200;
+ font-size: 25px;
+ padding: 50px 10px;
+ background-color: var(--background-light);
+ display: block;
+ width: 100%;
+ text-align: center;
+ border:2px dashed var(--background-default);
+ cursor: pointer;
+
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-body .card-text {
+  font-size: 14px;
+  color: var(--background-default);
+}
+
+.card-footer {
+  background-color: var(--background-default);
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+   }
+
+  .card-footer button {
+    font-size: 12px;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.4);
+    
+  }
+
+  
+  .sendAuctionBtn {
+    color: white;
+    background-color: #1b59ac;
+    cursor: pointer;
+  }
+  .unpublishBtn {
+    color: white;
+    background-color: #1bac6f;
+    cursor: pointer;
+  }
+  .removeBtn {
+    color: white;
+    background-color: #d44c2e;
+    cursor: pointer;
+  }
+  .editBtn {
+    color: var(--background-default);
+    background-color: var(--background-light);
+    cursor: pointer;
+  }
+
+
+  /*Add new item page*/
+
+
+#adingItemForm {
+  background-color: var(--background-default);
+  color: var(--background-normal);
+
+}
+
+
+#adingItemForm input,
+textarea,
+select {
+  background-color: transparent;
+  border: 2px solid var(--background-normal);
+  border-radius: 5px;
+  color: var(--background-light);
+  padding-left: 10px;
+ 
+}
+select option {
+  color:brown;
+}
+
+#itemType {
+  background-color: transparent;
+  border: 2px solid var(--background-normal);
+  border-radius: 3px;
+  padding: 3px;
+}
+
+.takeASnapshot.d-none {
+  display: none;
+}
+
+#captureImagePage.d-none {
+  display: none;
+}
+
+.takeASnapshot {
+  height: 170px;
+  background-color: transparent;
+  color: var(--background-normal);
+  border-radius: 10px;
+  border: 3px dashed var(--background-light);
+}
+
+#addNewItemBtn {
+  background-color: #d44c2e;
+  color: var(--backgroundCol);
+  padding: 8px 20px;
+  
+}
+#cancelBtn {
+  background-color: #e5e5e5;
+  padding: 8px 25px;
+  
+}
+
+ #captureImagePage {
+  z-index: 5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--background-default);
+  padding: 20px;
+}
+ #captureImagePage canvas {
+  display: none;
+}
+
+ #captureImagePage video {
+  padding: 10px 0;
+  display: block;
+  width: 100%;
+  height: 100vh;
+}
+
+ #captureImagePage .wrap {
+  width: 100%;
+  text-align: center;
+}
+
+ #captureImagePage #screenShot {
+  text-align: center;
+  border: none;
+  background-color: transparent;
+  color: var(--background-light);
+}
+
+/***************************************************************/
+
+#auction {
+
+  font-family: "Roboto", sans-serif;
+  background-color: var(--background-light);
+  padding: 20px 0;
+  position: relative;
+
+}
+
+#auction .timer {
+  text-align: center;
+  color:var(--background-default);
+  font-size: 30px;
+}
+
+.auction-header {
+  color:var(--background-default);
+  text-align: center;
+
+}
+
+.auctionCardContainer {
+  padding: 40px 0;
+
+}
+
+.auctionCardContainer .card {
+
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px -5px rgba(0, 0, 0, 0.75);
+  margin-bottom: 20px;
+  
+}
+
+.auctionCardContainer .card-header .artist-name {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 200;
+  font-size: 30px;
+  color: var(--background-default);
+  margin-bottom: 0px;
+}
+
+
+.auctionCardContainer .card-header .artist-price {
+  font-size: 14px;
+  background-color: var(--background-default);
+  padding: 5px 10px;
+  color: var(--background-light);
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
+}
+
+
+.auctionCardContainer .card-image {
+  height: 160px;
+}
+
+.auctionCardContainer .card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.auctionCardContainer .card-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+}
+
+
+.auctionCardContainer .card-body {
+  padding: 10px 20px;
+  background-color: var(--background-light);
+}
+
+
+.auctionCardContainer .card-body h5 {
+  font-size: 20px;
+  color: var(--background-default);
+}
+
+.auctionCardContainer .card-body p {
+  font-size: 12px;
+  color: var(--background-default);
+}
+
+#biddingHistory {
+
+ list-style: none;
+ padding: 20;
+ margin: 0;
+
+}
+
+
+.me  {
+  display:block;
+  margin-bottom: 10px;
+  background-color:var(--background-normal);
+  border-radius: 4px;
+  font-size: 20px;
+  color:blue;
+  font-weight: bold;
+}
+
+
+.user  {
+  text-align: right;
+  color:white;
+  background-color: var(--background-default);
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+ 
+
+#biddingHistory  .user::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  right: -5px;
+  z-index: -2;
+  border-top-right-radius: 30px;
+  bottom: 0;
+  background: var(--background-default);
+
+}
+
+#bidding-form {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#bidding-form  label {
+  color: var(--background-default);
+}
+
+#bidding-form  input {
+  background-color: transparent;
+  border: 1px solid var(--background-default);
+  border-radius: 3px;
+  padding: 5px 15px;
+}
+
+#bidding-form  button {
+  padding: 8px 25px;
+  background-color: var(--background-default);
+  color: var(--background-light);
+  border: none;
+  border-radius: 3px;
+  margin:3px;
+}
+
+#bidding-form  button:disabled {
+  opacity: 0.3;
+}
+
+#bidding h2 {
+
+ text-align: center;
+ display: none; 
+ margin-top: 50px;
+ color: var(--background-default);
+ text-decoration: underline;
+}
+ 
+
+
+
+
+
+
+
+
+

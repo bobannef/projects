@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+    integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" />
+  <script src="https://kit.fontawesome.com/fef3579a60.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <link rel="stylesheet" href="./app/styles/style.css">
+  <title>Street Artists</title>
+
+  <script>
+    function hideMenu() {
+      document.getElementById("collapseNav").classList.remove("show");
+    }
+  </script>
+</head>
+
+
+<body>
+
+  <header>
+
+    <div class="logo">
+
+      <div class="logo-img d-none">
+        <a href='./index.html'><img src="./app/project images/Logo.png" alt="" /></a>
+      </div>
+
+      <h1 class="logo-text text-center">Street ARTists</h1>
+
+    </div>
+
+
+    <div class="nav-icon-container">
+
+      <div class="menu-btn d-none">
+        <i class="fa-sharp fa-solid fa-bars fa-2x" data-toggle="collapse" data-target="#collapseNav"></i>
+      </div>
+
+      <div class="auction-btn d-none">
+        <a href="#auction"><img src="./app/project images/Vector.png" alt=""></a>
+      </div>
+
+    </div>
+
+  </header>
+
+  <div class="collapse" id="collapseNav">
+    <div class="d-flex flex-column navigation">
+      <li><a href="#artists" onclick="hideMenu()">Home</a></li>
+      <li><a href="#artists-items" onclick="hideMenu()">Items</a></li>
+      <li><a href="#auction" onclick="hideMenu()">Auction</a></li>
+    </div>
+  </div>
+
+
+
+  <section id="landingPage" class="page">
+
+    <div class="logo-wrapper">
+      <img src="./app/project images/Logo.png" alt="">
+
+    </div>
+
+    <div class="select-container">
+      <div class="join-artist">
+        <div class="wrap-up">
+          <p>Join as Artist</p>
+          <div class="artist-list">
+            <select name="artist-select" id="artist-select">
+              <option value="">Choose</option>
+            </select>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="join-visitor">
+        <div class="wrap-down">
+          <p>Join as Visitor</p>
+        </div>
+
+      </div>
+    </div>
+
+
+
+  </section>
+
+
+  <section id="visitorHomePage" class="page">
+    <div class="banner">
+      <h1>Looking for <br> masterpiece?</h1>
+      <a href="#visitorListingPage"><button class="findOneBtn">Find one now!</button></a>
+
+    </div>
+
+
+
+    <div class="sliders-animation">
+
+      <div class="top">
+
+        <a href="#visitors/listing"><img src="./app/project images/image 01.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 02.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 03.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 04.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 05.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 06.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 07.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 08.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 09.jpg" class="img-slider" alt=""></a>
+
+      </div>
+
+
+
+      <div class="bottom">
+
+        <a href="#visitors/listing"><img src="./app/project images/image 01.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 02.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 03.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 04.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 05.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 06.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 07.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 08.jpg" class="img-slider" alt=""></a>
+        <a href="#visitors/listing"><img src="./app/project images/image 09.jpg" class="img-slider" alt=""></a>
+
+      </div>
+
+    </div>
+
+    <div id="carouselExampleControls" class="carousel slide" data-interval="2500" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="container">
+            <div class="row mt-4">
+              <div class="col-6 h-100 caraBorder">
+                <div class="Lcara pt-5 mt-3">
+                  <img src="./app/project images/carousel-img01.jpg" class="rounded-circle" alt="">
+                  <p class="d-flex text-center align-items-center rounded py-2">Lorem ipsum dolor sit
+                    amet, consectetur
+                    adipiscing elit ut
+                    aliquam, purus sit
+                    amet luctus
+                    venenatis.</p>
+                </div>
+              </div>
+              <div class="col-6 d-flex text-center align-items-center">
+                <p class="justify-content-center pb-2">Lorem ipsum dolor sit
+                  amet, consectetur
+                  adipiscing elit ut aliquam,
+                  purus sit amet luctus sit amet consectetureius! Laboriosam temporibus vel deleniti.
+                  fringilla urna, porttitor</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="container">
+            <div class="row mt-4">
+              <div class="col-6 h-100 caraBorder">
+                <div class="Lcara pt-5 mt-3">
+                  <img src="./app/project images/carousel-img02.jpg" class="rounded-circle" alt="">
+                  <p class="d-flex text-center align-items-center rounded py-2">Lorem ipsum dolor sit
+                    amet, consectetur
+                    adipiscing elit ut
+                    aliquam, purus sit
+                    amet luctus
+                    venenatis.</p>
+                </div>
+              </div>
+              <div class="col-6 d-flex text-center align-items-center">
+                <p class="justify-content-center pb-2">Lorem ipsum dolor sit
+                  amet, consectetur
+                  adipiscing elit ut aliquam,
+                  purus sit amet luctus sit amet consectetureius! Laboriosam temporibus vel deleniti.
+                  fringilla urna, porttitor</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="container">
+            <div class="row mt-4">
+              <div class="col-6 h-100 caraBorder">
+                <div class="Lcara pt-5 mt-3">
+                  <img src="./app/project images/carousel-img03.jpg" class="rounded-circle" alt="">
+                  <p class="d-flex text-center align-items-center rounded py-2">Lorem ipsum dolor sit
+                    amet, consectetur
+                    adipiscing elit ut
+                    aliquam, purus sit
+                    amet luctus
+                    venenatis.</p>
+                </div>
+              </div>
+              <div class="col-6 d-flex text-center align-items-center">
+                <p class="justify-content-center pb-2">Lorem ipsum dolor sit
+                  amet, consectetur
+                  adipiscing elit ut aliquam,
+                  purus sit amet luctus sit amet consectetureius! Laboriosam temporibus vel deleniti.
+                  fringilla urna, porttitor</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <img src="./app/project images/Vector 1.png" alt="">
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <img src="./app/project images/Vector 2.png" alt="">
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </section>
+
+
+  <section id="visitorListingPage" class="page">
+
+    <div class="card-container">
+
+      <!-- <div class="card">
+            <div class="card-img">
+              <img src="./app/project images/unsplash_5MTf9XyVVgM.png" alt="">
+            </div>
+            <div class="card-header">
+                  <div class="left">
+                     <h3>Artist name</h3>
+                  </div>
+                  <div class="right">
+                      <span>$500</span>
+                  </div>
+            </div>
+            <div class="card-body">
+                 <h5 class="card-title">Item title</h5>
+                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit
+                amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor.</p>  
+            </div>
+        </div>   -->
+
+      <!-- <div class="card">
+           <div class="card-img">
+              <img src="./app/project images/unsplash_fRBpWLAcWIY.png"  alt="">
+           </div>
+          <div class="card-header">
+              <div class="left">
+                 <h3>Artist name</h3>
+              </div>
+              <div class="right">
+                  <span>$500</span>
+              </div>
+          </div>
+         <div class="card-body">
+             <h5 class="card-title">Item title</h5>
+             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit
+            amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor.</p>  
+        </div>
+     </div>
+
+     <div class="card">
+       <div class="card-img">
+          <img src="./app/project images/unsplash_5MTf9XyVVgM.png" alt="">
+         </div>
+      <div class="card-header">
+          <div class="left">
+             <h3>Artist name</h3>
+          </div>
+          <div class="right">
+              <span>$500</span>
+          </div>
+     </div>
+    <div class="card-body">
+         <h5 class="card-title">Item title</h5>
+         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit
+        amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor.</p>  
+    </div>
+  </div>  -->
+
+    </div>
+    <img src="./app/project images/filter-icon.svg" class="filterBtn" alt="">
+
+    <div class="filterPage d-none">
+
+      <div class="filter-header">
+        <h2>Filter by</h2>
+        <button class="closeBtn"><img src="./app/project images/close-icon.svg" alt=""></button>
+      </div>
+
+      <div class="filters">
+        <label for="filterByTitle">By Item Title</label>
+        <input type="text" id="filterByTitle" name="filterByTitle">
+      </div>
+      <hr>
+      <div class="filters">
+        <label for="filterByArtist">By Artist</label>
+        <select name="filterByArtist" id="filterByArtist">
+          <option value="choose">Choose</option>
+        </select>
+
+      </div>
+      <hr>
+      <div class="filters">
+        <p>By Price</p>
+        <div class="price-filter">
+
+          <div class="min-price">
+            <label for="filterByminPrice">Min:</label>
+            <input type="number" id="filterByminPrice" name="filterByminPrice">
+          </div>
+          <div class="max-price">
+            <label for="filterBymaxPrice">Max:</label>
+            <input type="number" id="filterBymaxPrice" name="filterBymaxPrice">
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="filters">
+        <label for="filterByType">By Type</label>
+        <select name="filterByType" id="filterByType">
+          <option value="">choose</option>
+
+        </select>
+
+      </div>
+      <hr>
+      <div class="buttonContainer">
+        <button class="applyBtn"><img src="./app/project images/check-mark.svg" alt=""></button>
+      </div>
+    </div>
+
+
+  </section>
+
+
+  <section id="artists" class="page">
+
+    <div class="sales-info-container">
+
+      <div class="row totals">
+        <div class="col total-sold">
+          <h3>Total Items Sold</h3>
+          <p class="items-sold">?</p>
+        </div>
+        <div class="col-6 col total-income">
+          <h3>Total Income</h3>
+          <p class="income-amount">$0</p>
+        </div>
+
+      </div>
+
+      <div class="row">
+        <a href="#auction" class="col-12 live-auction-container col">
+          <h3>Live Auctioning Item</h3>
+          <p class="auction-amount">$0</p>
+          <p class="bid">current bid</p>
+        </a>
+      </div>
+
+    </div>
+
+    <div class="chart-container">
+      <h2>Display my income for last</h2>
+      <div class="button-container">
+        <button id="last7">7 days</button>
+        <button id="last14">14 days</button>
+        <button id="last30"> 1 month</button>
+        <button id="lastYear"> 1 year</button>
+
+      </div>
+      <div class="chart">
+        <canvas id="myChart"></canvas>
+      </div>
+
+    </div>
+
+
+  </section>
+
+
+  <section id="artists-items" class="page">
+
+    <div class="add-item">
+      <button class="add-item-btn">+ Add new item</button>
+
+    </div>
+    <div class="cards-container-items">
+
+      <!-- <div class="card">
+               <div class="card-img">
+                 <img src="./app/project images/unsplash_5MTf9XyVVgM.png" class="card-img" alt="">
+               </div>
+             <div class="card-header">
+                <div class="left">
+                   <h3 class="title">Item title</h3>
+                   <span class="date">15.10.2021</span>
+                </div>
+               <div class="right">
+                <span class="price">$500</span>
+               </div>
+            </div>
+         <div class="card-body">
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit
+             amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor.</p>  
+         </div>
+          <div class="card-footer">
+             <button class="sendAuctionBtn">Send to Auction</button>
+             <button class="publishBtn">Unpublish</button>
+             <button class="removeBtn">Remove</button>
+             <button class="editBtn">Edit</button>
+         </div>
+       </div>  -->
+
+
+
+    </div>
+
+    <div class="add-new-ItemPage d-none">
+      <form id="adingItemForm" class="px-4 pt-3">
+        <div class="d-flex justify-content-between align-items-center pr-0">
+          <h2>Add new Item</h2>
+          <div>
+            <label for="isPublished" class="small pr-3">Is Published</label>
+            <input type="checkbox" name="isPublished" id="isPublished" value="checked">
+          </div>
+        </div>
+        <label for="title" class="mb-0 pt-2">Title</label>
+        <input type="text" name="title" id="itemTitle" class="w-100">
+
+        <label for="desc" class="mb-0 pt-4">Description</label>
+        <textarea name="desc" id="itemDescription" rows="4" class="w-100"></textarea>
+
+        <div class="row">
+          <div class="col-6">
+            <label for="Type" class="mb-0 pt-3">Type</label>
+            <select id="itemType" class="w-100">
+              <option value="">Select Art Type</option>
+            </select>
+
+          </div>
+          <div class="col-6">
+            <label for="Price" class="mb-0 pt-3">Price</label>
+            <input type="number" name="Price" id="itemPrice" class="w-100"></input>
+          </div>
+        </div>
+        <label for="imageUrl" class="mb-0 pt-2">Image Url</label>
+        <input type="text" name="imageUrl" id="imageUrl" class="w-100">
+
+        <p class="d-flex justify-content-center small pt-3">or</p>
+
+
+
+        <div class="snapshot">
+          <img class="capturedImage" src="" alt="">
+          <button type="button" class="takeASnapshot w-100">
+            <i class="fa-solid fa-camera fa-4x"></i>
+            <p class="m-0">Take a snapshot</p>
+          </button>
+        </div>
+
+        <div class="row d-flex justify-content-between">
+          <div class="col-6 pt-4"><button type="submit" id="addNewItemBtn" class="btn w-100">Add New Item</button></div>
+          <div class="col-6 pt-4"><button type="button" id="cancelBtn" class="btn w-100">Cancel</button></div>
+        </div>
+      </form>
+    </div>
+
+    <div id="captureImagePage" class="d-none">
+      <select id="videos"></select>
+      <video autoplay></video>
+      <canvas id='canvas'></canvas>
+      <div class="wrap">
+        <button id="screenShot"><i class="fas fa-camera fa-4x"></i></button>
+      </div>
+
+    </div>
+
+  </section>
+
+  <section id="auction" class="page">
+
+    <h2 class="auction-header">There are no items in Auction</h2>
+
+    <div class="auctionCardContainer">
+
+      <!-- <div class="card">
+
+           <div class="card-image">
+
+             <img src="" alt=""> 
+           </div>
+      
+        <div class="card-header">
+
+           <h3 class="artist-name">Artist name</h3>
+           <span class="artist-price">500$</span>
+        </div>
+
+        <div class="card-body">
+            <h5>Item title</h5>
+             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati ab quo itaque beatae natus corrupti labore. Voluptatibus quod ut nisi ipsam temporibus. Soluta eaque, temporibus provident aspernatur, obcaecati iusto quidem nemo dicta, a porro quos pariatur eveniet facere minus. Tenetur consequatur amet nihil hic repellat aliquam? Aperiam consectetur sequi vero!</p>
+
+        </div>
+
+      </div>  -->
+    </div>
+
+    <div id="bidding" class="d-none">
+      <div class="timer">
+
+
+      </div>
+
+      <form id="bidding-form">
+        <label for="bidAmount">Bid amount</label>
+        <input type="number" name="bidAmount" step="10" id="bidAmount">
+        <button id="biddingBtn" type="button">Bid</button>
+      </form>
+
+      <ul id="biddingHistory">
+
+
+      </ul>
+      <h2 class="auction-finished">Auction Done!</h2>
+    </div>
+
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
+    integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
+    crossorigin="anonymous"></script>
+
+
+
+
+  <script defer type="module" src="./app/main.js"></script>
+
+
+
+</body>
+
+</html>
